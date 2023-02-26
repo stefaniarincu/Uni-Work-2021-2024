@@ -1,0 +1,34 @@
+Task: ./cerinta1
+	Test 0: OK (10)
+	Test 1: OK (10)
+	Test 2: OK (10)
+	Test 3: OK (10)
+
+
+Task: ./cerinta2
+	Test 0: OK (5)
+	Test 1: OK (5)
+	Test 2: OK (5)
+	Test 3: OK (5)
+
+
+Task: ./cerinta3
+	Test 0: OK (5)
+	Test 1: OK (5)
+	Test 2: OK (5)
+
+
+Task: ./cerinta4
+	Test 0: exception! (0p)
+	Test 1: exception! (0p)
+	Test 2: exception! (0p)
+	Test 3: exception! (0p)
+	Test 4: exception! (0p)
+	Test 5: exception! (0p)
+	Test 6: exception! (0p)
+	Test 7: exception! (0p)
+	Test 8: exception! (0p)
+	Test 9: exception! (0p)
+
+
+Estimated grade 85 / 100
